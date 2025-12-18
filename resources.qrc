@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/"/>
+    <qresource prefix="/sfx">
+        <file>sfx/sad_horn.wav</file>
+        <file>sfx/welcome.wav</file>
+        <file>sfx/not_welcome.wav</file>
+        <file>sfx/check_out.wav</file>
+        <file>sfx/riceee_check _in.wav</file>
+        <file>sfx/credits.wav</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>img/login_img.png</file>
+        <file>img/mahmoud.png</file>
+        <file>img/kemoo.png</file>
+        <file>img/farag.png</file>
+        <file>img/wael.png</file>
+    </qresource>
+</RCC>
